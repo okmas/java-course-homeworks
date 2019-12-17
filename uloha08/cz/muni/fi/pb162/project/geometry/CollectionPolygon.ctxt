@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=verts
+comment0.target=CollectionPolygon(Vertex2D[])
+comment0.text=\n\ Constructor.\n\ \n\ @param\ verts\ \ \ \ \ \ \ \ \ array\ of\ vertices\n
+comment1.params=
+comment1.target=CollectionPolygon\ invert()
+comment1.text=\n\ Returns\ inversion\ of\ this\ polygon\ -\ means\ the\ order\ of\ its\ vertices\ is\ inverted.\n\ \n\ @return\ inverted\ CollectionPolygon\n
+comment2.params=
+comment2.target=java.util.Collection\ removeLeftmostVertices()
+comment2.text=\n\ Removes\ leftmost\ vertices\ from\ this.\n\ \n\ @return\ collection\ of\ leftmost\ vertices\n
+comment3.params=index
+comment3.target=Vertex2D\ getVertex(int)
+comment3.text=getters
+comment4.params=
+comment4.target=int\ getNumVertices()
+comment5.params=
+comment5.target=java.util.Collection\ getVertices()
+comment5.text=\n\ Returns\ collection\ of\ vertices.\n\ \n\ @return\ collection\ of\ vertices\n
+numComments=6

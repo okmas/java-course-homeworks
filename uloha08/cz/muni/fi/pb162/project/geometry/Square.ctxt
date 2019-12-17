@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=center\ edgeLength
+comment0.target=Square(Vertex2D,\ double)
+comment0.text=\n\ Creates\ a\ square.\n\ \n\ @param\ center\ \ \ \ \ \ \ \ center\ of\ the\ square\n\ @param\ edgeLength\ \ \ \ length\ of\ one\ edge\n
+comment1.params=radius\ center
+comment1.target=Square(double,\ Vertex2D)
+comment1.text=\n\ Creates\ a\ square.\n\n\ @param\ radius\ \ \ \ \ \ \ \ radius\ of\ the\ smallest\ bounding\ rectangl\n\ @param\ center\ \ \ \ \ \ \ \ center\ of\ the\ square\n
+numComments=2

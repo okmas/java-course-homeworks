@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=identifier
+comment0.target=void\ validateIdentifier(java.lang.String)
+comment1.params=identifier
+comment1.target=void\ validateConstIdentifier(java.lang.String)
+comment10.params=ancestor\ clazz
+comment10.target=void\ testAncestor(java.lang.Class,\ java.lang.Class)
+comment2.params=clazz
+comment2.target=void\ testAttributes(java.lang.Class)
+comment3.params=clazz
+comment3.target=void\ testMethods(java.lang.Class)
+comment4.params=clazz
+comment4.target=void\ testMethodsAndAttributes(java.lang.Class)
+comment5.params=clazz\ name\ paramTypes
+comment5.target=void\ testAbstractMethod(java.lang.Class,\ java.lang.String,\ java.lang.Class[])
+comment6.params=clazz\ name\ paramTypes
+comment6.target=void\ testNonAbstractMethod(java.lang.Class,\ java.lang.String,\ java.lang.Class[])
+comment6.text=\r\n\ Tests\ presence\ of\ the\ implementation\ of\ non-abstract\ method\ in\ a\ class\r\n\ @param\ clazz\r\n\ @param\ name\r\n\ @param\ paramTypes\ \r\n
+comment7.params=clazz\ name\ paramTypes
+comment7.target=void\ testRedundantMethod(java.lang.Class,\ java.lang.String,\ java.lang.Class[])
+comment7.text=\r\n\ Fails\ if\ the\ given\ class\ declares\ some\ of\ the\ given\ methods.\r\n\ \r\n\ @param\ clazz\r\n\ @param\ name\r\n\ @param\ paramTypes\ \r\n
+comment8.params=clazz
+comment8.target=void\ testRunnableClass(java.lang.Class)
+comment9.params=name\ paramTypes
+comment9.target=java.lang.String\ getMethodSignature(java.lang.String,\ java.lang.Class[])
+numComments=11

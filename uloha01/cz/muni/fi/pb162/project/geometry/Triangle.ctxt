@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Triangle()
+comment0.text=\r\n\ Param-less\ constructor\r\n
+comment1.params=vertA\ vertB\ vertC
+comment1.target=Triangle(Vertex2D,\ Vertex2D,\ Vertex2D)
+comment1.text=\r\n\ Constructor\ that\ initializes\ verteces\ of\ the\ triangle\r\n\ \r\n\ @param\ vertA\ first\ vertex\r\n\ @param\ vertB\ second\ vertex\r\n\ @param\ vertC\ third\ vertex\r\n
+comment10.params=
+comment10.target=Vertex2D\ getVertexC()
+comment11.params=
+comment11.target=boolean\ isDivided()
+comment2.params=i
+comment2.target=Triangle\ getSubTriangle(int)
+comment2.text=\r\n\ Return\ subtriangle\ at\ given\ index\ withing\ range\ 0-2.\ For\ indeces\ out\ of\ range\ returns\ null.\r\n\ \r\n\ @param\ i\ index\r\n
+comment3.params=
+comment3.target=boolean\ divide()
+comment3.text=\r\n\ Devides\ triangle\ into\ subtriangles.\ Returns\ true\ if\ triangle\ has\ been\ divided\ succesfully,\ returns\ false\ if\ it\ already\ was\ devided.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Returns\ a\ string\ of\ format\ "Triangle\:\ vertices\="\ +\ vertA.toString()\ +\ "\ "\ +\ vertB.toString()\ +\ "\ "\ +\ vertC.toString()\r\n
+comment5.params=vert
+comment5.target=void\ setVertexA(Vertex2D)
+comment5.text=getters\ and\ setters
+comment6.params=vert
+comment6.target=void\ setVertexB(Vertex2D)
+comment7.params=vert
+comment7.target=void\ setVertexC(Vertex2D)
+comment8.params=
+comment8.target=Vertex2D\ getVertexA()
+comment9.params=
+comment9.target=Vertex2D\ getVertexB()
+numComments=12

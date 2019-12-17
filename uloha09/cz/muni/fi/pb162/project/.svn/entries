@@ -1,0 +1,77 @@
+10
+
+dir
+62
+https:// @svn.code.sf.net/p/pb162/code/pb162-2013/cz/muni/fi/pb162/project
+https:// @svn.code.sf.net/p/pb162/code
+
+
+
+2013-11-16T14:42:07.261804Z
+62
+oslejsek
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+17c289a7-8a9f-4ad2-a398-69b641370efd
+
+assignment
+dir
+
+db
+dir
+
+demo
+dir
+
+geometry
+dir
+
+package.bluej
+file
+
+
+
+
+2013-11-19T15:02:11.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2013-09-06T08:37:06.039191Z
+41
+oslejsek
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+test
+dir
+

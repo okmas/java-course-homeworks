@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=centerBlack\ radius
+comment0.target=OlympicRings(Vertex2D,\ double)
+comment0.text=\r\n\ Creates\ olympic\ rings\ representation.\r\n\ \r\n\ @param\ centerBlack\ \ \ \ \ \ \ center\ of\ the\ black\ ring\r\n\ @param\ radius\ \ \ \ \ \ \ \ \ \ \ \ radius\ of\ all\ rings\r\n
+comment1.params=
+comment1.target=Circle\ getBlueRing()
+comment1.text=getters\ and\ setters
+comment2.params=
+comment2.target=Circle\ getBlackRing()
+comment3.params=
+comment3.target=Circle\ getRedRing()
+comment4.params=
+comment4.target=Circle\ getYellowRing()
+comment5.params=
+comment5.target=Circle\ getGreenRing()
+comment6.params=y\ radius
+comment6.target=double\ moveDown(double,\ double)
+comment6.text=private\ methods
+comment7.params=y\ radius
+comment7.target=double\ moveUp(double,\ double)
+comment8.params=x\ radius\ times
+comment8.target=double\ moveLeft(double,\ double,\ int)
+comment9.params=x\ radius\ times
+comment9.target=double\ moveRight(double,\ double,\ int)
+numComments=10

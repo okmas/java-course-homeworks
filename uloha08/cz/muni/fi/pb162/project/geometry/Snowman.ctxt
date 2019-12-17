@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=radius\ ratio
+comment0.target=Snowman(double,\ double)
+comment0.text=\n\ Constructor.\n\ \n\ @param\ radius\ \ \ \ \ \ \ \ radius\ of\ bottom\ circle\n\ @param\ ratio\ \ \ \ \ \ \ \ \ ratio\ of\ changing\ size\ of\ the\ circles\ going\ upwards\n
+comment1.params=
+comment1.target=Circle\ getBottomBall()
+comment1.text=getters\ and\ setters
+comment2.params=
+comment2.target=Circle\ getMiddleBall()
+comment3.params=
+comment3.target=Circle\ getTopBall()
+comment4.params=
+comment4.target=Circle\ getLeftHandBall()
+comment5.params=
+comment5.target=Circle\ getRightHandBall()
+comment6.params=x\ y\ radius\ ratio
+comment6.target=void\ createBody(double,\ double,\ double,\ double)
+comment6.text=\n\ Creates\ body\ of\ snowman.\n\ \n\ @param\ x\ \ \ \ \ \ \ \ \ \ \ \ \ x\ of\ center\ of\ bottom\ circle\n\ @param\ y\ \ \ \ \ \ \ \ \ \ \ \ \ y\ of\ center\ of\ bottom\ circle\n\ @param\ radius\ \ \ \ \ \ \ \ radius\ of\ bottom\ circle\n\ @param\ ratio\ \ \ \ \ \ \ \ \ ratio\ of\ changing\ size\ of\ the\ circles\ going\ upwards\n
+comment7.params=middleX\ middleY\ radius
+comment7.target=void\ createHands(double,\ double,\ double)
+comment7.text=\n\ Creates\ hands\ of\ snowman.\n\ \n\ @param\ middleX\ \ \ \ \ \ \ x\ of\ middle\ circle\ of\ snowmans's\ body\n\ @param\ middleY\ \ \ \ \ \ \ y\ of\ middle\ circle\ of\ snowmans's\ body\n\ @param\ radius\ \ \ \ \ \ \ \ radius\ of\ hand\ circles\n
+numComments=8

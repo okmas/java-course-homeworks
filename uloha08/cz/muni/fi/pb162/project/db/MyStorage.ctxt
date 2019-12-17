@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=connector\ maxAttempts
+comment0.target=MyStorage(Connector,\ int)
+comment0.text=\r\n\ Constructor.\r\n\ \r\n\ @param\ connector\ \ \ \ \ \ \ \ \ connector\ to\ be\ used\ in\ comunication\ with\ server\r\n\ @param\ maxAttempts\ \ \ \ \ \ \ maximum\ number\ of\ attempt\ of\ uploading\ data\ to\ server\r\n
+comment1.params=host\ data
+comment1.target=void\ store(java.lang.String,\ java.lang.Object)
+comment1.text=\r\n\ Stores\ data\ to\ host.\r\n\ \r\n\ @param\ host\ \ \ \ \ \ \ \ \ \ \ \ \ \ name\ of\ host\r\n\ @param\ data\ \ \ \ \ \ \ \ \ \ \ \ \ \ data\ to\ be\ stored\r\n
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=triangle
+comment0.target=boolean\ paintTriangle(cz.muni.fi.pb162.project.geometry.Triangle)
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

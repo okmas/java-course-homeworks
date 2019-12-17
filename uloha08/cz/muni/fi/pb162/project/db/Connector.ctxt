@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=host
+comment0.target=Connection\ getConnection(java.lang.String)
+comment0.text=\r\n\ Establishes\ connection\ to\ remote\ host.\r\n\ \r\n\ @param\ host\ remote\ host\ address\r\n\ @return\ Established\ connection\ with\ the\ remote\ host\r\n\ @throws\ UnknownHostException\ Indicates\ that\ the\ host\ address\ does\ not\ exist\r\n\ @throws\ NoRouteToHostException\ Signals\ that\ an\ error\ occurred\ while\ \r\n\ attempting\ to\ connect\ a\ socket\ to\ a\ remote\ address.\r\n
+numComments=1

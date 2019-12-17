@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vertex2D()
+comment0.text=\r\n\ Param-less\ constructor.\r\n
+comment1.params=newX\ newY
+comment1.target=Vertex2D(double,\ double)
+comment1.text=\r\n\ Constructor.\r\n\ \r\n\ @param\ newX\ initial\ value\ of\ x\r\n\ @param\ newY\ initlal\ value\ of\ y\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Return\ value\ of\ vertex\ as\ string\ in\ format\ "[x,\ y]"\r\n
+comment3.params=vert1\ vert2
+comment3.target=Vertex2D\ middleVertex(Vertex2D,\ Vertex2D)
+comment3.text=\r\n\ Returns\ a\ vertex\ whose\ coordinates\ are\ arithmethic\ mean\ of\ respective\ coordinates\ of\ parameters.\r\n\ \r\n\ @param\ vert1\ vertex\ one\r\n\ @param\ vert2\ vertex\ two\r\n
+comment4.params=
+comment4.target=double\ getX()
+comment4.text=getters\ and\ setters
+comment5.params=newX
+comment5.target=void\ setX(double)
+comment6.params=
+comment6.target=double\ getY()
+comment7.params=newY
+comment7.target=void\ setY(double)
+numComments=8

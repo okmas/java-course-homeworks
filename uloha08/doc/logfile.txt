@@ -1,0 +1,43 @@
+Class documentation
+<---- javadoc command: ---->
+/Users/hipppo/Documents/skola/pb162/BlueJ/BlueJ.app/Contents/PlugIns/jdk/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+/Users/hipppo/Documents/skola/pb162/BlueJ/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Users/hipppo/Documents/skola/pb162/BlueJ/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/hipppo/Documents/skola/pb162/pb162-2013
+-d
+/Users/hipppo/Documents/skola/pb162/pb162-2013/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Users/hipppo/Documents/skola/pb162/BlueJ/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/hipppo/Documents/skola/pb162/pb162-2013/cz/muni/fi/pb162/project/geometry/Vertex2D.java
+<---- end of javadoc command ---->
+Loading source file /Users/hipppo/Documents/skola/pb162/pb162-2013/cz/muni/fi/pb162/project/geometry/Vertex2D.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_21
+Building tree for all the packages and classes...
+Generating /Users/hipppo/Documents/skola/pb162/pb162-2013/doc/cz/muni/fi/pb162/project/geometry/Vertex2D.html...
+/Users/hipppo/Documents/skola/pb162/pb162-2013/cz/muni/fi/pb162/project/geometry/Vertex2D.java:49: warning - @param argument "vert" is not a parameter name.
+Generating /Users/hipppo/Documents/skola/pb162/pb162-2013/doc/cz/muni/fi/pb162/project/geometry/package-frame.html...
+Generating /Users/hipppo/Documents/skola/pb162/pb162-2013/doc/cz/muni/fi/pb162/project/geometry/package-summary.html...
+Generating /Users/hipppo/Documents/skola/pb162/pb162-2013/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/hipppo/Documents/skola/pb162/pb162-2013/doc/allclasses-frame.html...
+Generating /Users/hipppo/Documents/skola/pb162/pb162-2013/doc/allclasses-noframe.html...
+Generating /Users/hipppo/Documents/skola/pb162/pb162-2013/doc/index.html...
+Generating /Users/hipppo/Documents/skola/pb162/pb162-2013/doc/stylesheet.css...
+1 warning

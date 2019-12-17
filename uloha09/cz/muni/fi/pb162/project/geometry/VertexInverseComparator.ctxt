@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=vert1\ vert2
+comment0.target=int\ compare(Vertex2D,\ Vertex2D)
+comment0.text=\r\n\ Compares\ two\ vertices\ according\ to\ Vertex2D\ compareTo.\r\n\ \r\n\ @param\ vert1\ vertex\ one\r\n\ @param\ vert2\ vertex\ two\r\n\ @return\ inverse\ comparation\ implemented\ by\ Vertex2D\ compareTo\r\n
+numComments=1

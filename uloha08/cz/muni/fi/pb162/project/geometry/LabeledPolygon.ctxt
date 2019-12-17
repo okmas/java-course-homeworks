@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=label\ vert
+comment0.target=void\ addVertex(java.lang.String,\ Vertex2D)
+comment1.params=label
+comment1.target=Vertex2D\ getVertex(java.lang.String)
+comment2.params=index
+comment2.target=Vertex2D\ getVertex(int)
+comment3.params=
+comment3.target=int\ getNumVertices()
+comment4.params=
+comment4.target=java.util.Set\ getLabels()
+comment5.params=
+comment5.target=java.util.Collection\ getSortedVertices()
+comment6.params=comparator
+comment6.target=java.util.Collection\ getSortedVertices(java.util.Comparator)
+comment7.params=vert
+comment7.target=java.util.Collection\ getLabels(Vertex2D)
+comment8.params=
+comment8.target=java.util.Set\ duplicateVertices()
+numComments=9

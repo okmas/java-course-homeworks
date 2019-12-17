@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=data
+comment0.target=void\ sendData(java.lang.Object)
+comment0.text=\r\n\ Enables\ to\ send\ a\ data\ to\ the\ remote\ host.\r\n\ \r\n\ @param\ data\ data\ to\ be\ sent\r\n\ @throws\ IOException\ indicates\ that\ an\ error\ occured\ while\ sending\ data\r\n\ to\ the\ remote\ host\ (usually\ due\ to\ a\ temporary\ network\ failure).\r\n
+numComments=1

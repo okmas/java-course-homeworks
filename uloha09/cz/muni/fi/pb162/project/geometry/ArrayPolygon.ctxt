@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=verts
+comment0.target=ArrayPolygon(Vertex2D[])
+comment0.text=\n\ Constructor.\n\ \n\ @param\ verts\ \ \ \ \ vertices\ of\ the\ polygon\n\ @throws\ NullPointerException\ if\ verts\ is\ null,\ or\ any\ vertex\ in\ verts\ is\ null\n
+comment1.params=
+comment1.target=ArrayPolygon\ invert()
+comment1.text=\n\ Returns\ inversion\ of\ this\ polygon\ -\ means\ the\ order\ of\ its\ vertices\ is\ inverted.\n\ \n\ @return\ inverted\ ArrayPolygon\n
+comment2.params=pol
+comment2.target=boolean\ compare(ArrayPolygon)
+comment2.text=\n\ Compares\ an\ ArrayPolygon\ with\ this\ polygon.\ Takes\ into\ account\ inversion\ of\ vertices\ and\ shifts\ in\ the\ order\ of\ vertices.\n\ \n\ @param\ pol\ \ \ \ \ \ \ polygon\ to\ compare\n\ @return\ true\ if\ polygons\ are\ equal,\ false\ otherwise\n
+comment3.params=index
+comment3.target=Vertex2D\ getVertex(int)
+comment3.text=getters\ and\ setters
+comment4.params=
+comment4.target=int\ getNumVertices()
+numComments=5

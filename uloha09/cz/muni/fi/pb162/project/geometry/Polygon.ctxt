@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=index
+comment0.target=Vertex2D\ getVertex(int)
+comment0.text=\r\n\ Returns\ vertex\ at\ given\ index\ modulo\ number\ of\ indices.\r\n\ \r\n\ @param\ index\ vertex\ index\r\n\ @return\ vertex\ at\ given\ index\ modulo\ number\ of\ indices\r\n\ @throws\ IllegalArgumentException\ if\ index\ is\ negative\r\n
+comment1.params=
+comment1.target=int\ getNumVertices()
+comment1.text=\r\n\ Returns\ number\ of\ vertices\ of\ the\ polygon.\r\n\ \r\n\ @return\ number\ of\ vertices\r\n
+numComments=2

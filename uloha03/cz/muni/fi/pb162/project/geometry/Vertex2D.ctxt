@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=newX\ newY
+comment0.target=Vertex2D(double,\ double)
+comment0.text=\r\n\ Constructor.\r\n\ \r\n\ @param\ newX\ \ \ \ \ \ initial\ value\ of\ x\r\n\ @param\ newY\ \ \ \ \ \ initlal\ value\ of\ y\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Returns\ a\ string\ with\ info\ about\ the\ vertex.\r\n\ \r\n\ @return\ string\ in\ format\ "[x,\ y]"\r\n
+comment2.params=vert
+comment2.target=double\ distance(Vertex2D)
+comment2.text=\r\n\ Returns\ distance\ of\ the\ vertex\ to\ another\ given\ vertex.\r\n\ \r\n\ @param\ vert\ \ \ \ \ \ vetrex\ to\ calculate\ distance\ to\r\n\ @return\ if\ vert\ is\ null\ returns\ -1,\ otherwise\ returns\ distance\r\n
+comment3.params=vert1\ vert2
+comment3.target=Vertex2D\ middleVertex(Vertex2D,\ Vertex2D)
+comment3.text=\r\n\ Returns\ a\ vertex\ whose\ coordinates\ are\ arithmethic\ mean\ of\ respective\ coordinates\ of\ parameters.\r\n\ \r\n\ @param\ vert1\ \ \ \ \ vertex\ one\r\n\ @param\ vert2\ \ \ \ \ vertex\ two\r\n
+comment4.params=
+comment4.target=double\ getX()
+comment4.text=getters\ and\ setters
+comment5.params=
+comment5.target=double\ getY()
+numComments=6

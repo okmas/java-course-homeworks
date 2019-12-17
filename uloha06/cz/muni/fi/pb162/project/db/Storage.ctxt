@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=host\ data
+comment0.target=void\ store(java.lang.String,\ java.lang.Object)
+comment0.text=\r\n\ Stores\ data\ in\ remote\ Db\ server.\r\n\ \r\n\ @param\ host\ Address\ of\ remote\ DB\ server\r\n\ @param\ obj\ Data\ to\ store\r\n\ @throws\ DbUnreachableException\ if\ DB\ is\ unreachable\r\n\ @throws\ CannotStoreException\ if\ the\ method\ failed\ during\ the\ storing\ data\ into\ DB\ \r\n
+numComments=1

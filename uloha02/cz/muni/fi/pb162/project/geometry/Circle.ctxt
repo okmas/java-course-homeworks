@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=newCenter\ newRadius
+comment0.target=Circle(Vertex2D,\ double)
+comment0.text=\r\n\ Creates\ a\ circle\ with\ certain\ center\ and\ radius.\r\n\ \r\n\ @param\ newCenter\ \ \ \ \ \ \ \ \ center\ of\ the\ circle\r\n\ @param\ newRadius\ \ \ \ \ \ \ \ \ radius\ of\ the\ circle\r\n
+comment1.params=
+comment1.target=Circle()
+comment1.text=\r\n\ Param-less\ constructor.\ Creates\ a\ circle\ with\ center\ in\ the\ origin\ and\ radius\ of\ 1.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Returns\ string\ with\ info\ about\ the\ circle.\r\n\ \r\n\ @return\ string\ in\ format\ "Circle\:\ center\=[<x>,\ <y>],\ radius\=<radius>"\r\n
+comment3.params=
+comment3.target=double\ getRadius()
+comment3.text=getters\ and\ setters
+comment4.params=
+comment4.target=Vertex2D\ getCenter()
+numComments=5

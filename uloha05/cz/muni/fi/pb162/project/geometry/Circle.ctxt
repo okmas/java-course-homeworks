@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=center\ radius
+comment0.target=Circle(Vertex2D,\ double)
+comment0.text=\r\n\ Creates\ a\ circle\ with\ certain\ center\ and\ radius.\r\n\ \r\n\ @param\ center\ \ \ \ \ \ \ \ \ center\ of\ the\ circle\r\n\ @param\ radius\ \ \ \ \ \ \ \ \ radius\ of\ the\ circle\r\n
+comment1.params=
+comment1.target=Circle()
+comment1.text=\r\n\ Param-less\ constructor.\ Creates\ a\ circle\ with\ center\ in\ the\ origin\ and\ radius\ of\ 1.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Returns\ string\ with\ info\ about\ the\ circle.\r\n\ \r\n\ @return\ string\ in\ format\ "Circle\:\ center\=[<x>,\ <y>],\ radius\=<radius>"\r\n
+comment3.params=
+comment3.target=double\ getRadius()
+comment3.text=\r\n\ Returns\ the\ radius\ of\ the\ circle.\r\n\ \r\n\ @return\ radius\ of\ the\ circle\r\n
+comment4.params=
+comment4.target=double\ getArea()
+comment4.text=\r\n\ Returns\ area\ of\ the\ circle.\r\n\ \r\n\ @return\ Area\r\n
+comment5.params=
+comment5.target=double\ getLength()
+comment5.text=\r\n\ Returns\ the\ circumference\ of\ the\ circle.\r\n\ \r\n\ @return\ length\ or\ perimeter\r\n
+numComments=6

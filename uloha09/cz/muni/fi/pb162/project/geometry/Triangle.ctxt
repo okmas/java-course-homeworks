@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=vertA\ vertB\ vertC
+comment0.target=Triangle(Vertex2D,\ Vertex2D,\ Vertex2D)
+comment0.text=\n\ Constructor\ that\ initializes\ verteces\ of\ the\ triangle.\n\ \n\ @param\ vertA\ \ \ \ \ \ first\ vertex\n\ @param\ vertB\ \ \ \ \ \ second\ vertex\n\ @param\ vertC\ \ \ \ \ \ third\ vertex\n
+comment1.params=vertA\ vertB\ vertC\ depth
+comment1.target=Triangle(Vertex2D,\ Vertex2D,\ Vertex2D,\ int)
+comment1.text=\n\ Constructor\ that\ initializes\ verteces\ of\ the\ triangle\ and\ sets\ depth\ of\ fractal\ to\ be\ created.\n\ \n\ @param\ vertA\ \ \ \ \ \ first\ vertex\n\ @param\ vertB\ \ \ \ \ \ second\ vertex\n\ @param\ vertC\ \ \ \ \ \ third\ vertex\n\ @param\ depth\ \ \ \ \ \ depth\ of\ fractal\n
+comment2.params=i
+comment2.target=Triangle\ getSubTriangle(int)
+comment2.text=\n\ Return\ subtriangle\ at\ index.\n\ \n\ @param\ i\ \ \ \ \ \ \ \ \ \ index\n\ @return\ subtriangle\ at\ given\ index\ withing\ range\ 0-2,\ for\ indeces\ out\ of\ range\ returns\ null\n
+comment3.params=
+comment3.target=boolean\ divide()
+comment3.text=\n\ Devides\ triangle\ into\ subtriangles.\ \n\ \n\ @return\ true\ if\ triangle\ has\ been\ divided\ succesfully,\ false\ if\ it\ has\ already\ been\ devided\n
+comment4.params=depth
+comment4.target=void\ divide(int)
+comment4.text=\n\ Creates\ fractal\ structure\ -\ Sierpinski\ triangle.\n\ \n\ @param\ depth\ \ \ \ \ \ depth\ of\ fractal\n
+comment5.params=
+comment5.target=boolean\ isEquilateral()
+comment5.text=\n\ Checks\ whether\ the\ triangle\ is\ equilateral.\n\ \n\ @return\ true\ if\ it\ is,\ false\ otherwise\n
+comment6.params=
+comment6.target=boolean\ isDivided()
+comment6.text=getters\ and\ setters
+comment7.params=vert1\ vert2
+comment7.target=double\ getSideLength(int,\ int)
+comment7.text=private\ methods
+numComments=8
